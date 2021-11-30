@@ -1,0 +1,191 @@
+> db.names.insert({'name':'Juana Moreira'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Maria'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Marcos Herrera'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Ericka Solorzano'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Sara'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Daniel Loor'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Fabián'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Wilmer Romero'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Tania'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Raul'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Hilda Andrade'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jhonny'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Nando'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Omar García'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Fiona'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Andrea Alcivar'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Dante'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Paul Bravo'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Brianna'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Noelia'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Ramiro Ordoñez'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Isabel Vélez'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Verónica Cedeño'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Carlos Quispe'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Pedro'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Luis Mario'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Liliana'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Karol'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Romina'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Gema'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Olga Torres'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Ulises'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Pablo Benavides'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Sandra Rosado'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Alejandra Ruíz'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Hardin'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Juan'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Cristo Alvarado'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Carmen Bolivar'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jesús Esmeralda'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jandri Anchundia'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Aldair Ramírez'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Kelvin'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Lali'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Juan Nardia'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Isis Estrada'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Manuel'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Tomás'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Mauro'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Michelle Campos'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Cecilia'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Cristian Parrales'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Luci Valdez'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Mirta'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Klar Oña'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Cristina'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Boris'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Andrés Cordoba'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Estefania'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Farina'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Lucia Candela'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Nilo Menéndez'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Yandri Santana'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Samantha'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Helen'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Joe Zambrano'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Ricardo'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jorge Rivas'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Bladimir'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Cythia Gómez'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Santa Solis'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Ana'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Rody'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Daniela Borja'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Leonel'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Miguel'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Ericka Montes'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Sarahí'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Victor Dueñas'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Enoy Bedoya'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Shirley Cuenca'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Melani Mendoza'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Jaime Herrera'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Mayra Guerrero'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Cleo'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Carolina'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Karen'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Enrique Quispe'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Landro'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Kelvin Pérez'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Pierina'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Solón Verduga'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Patricia'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Andy Lamiña'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Sandy'});
+WriteResult({ "nInserted" : 1 })
+> db.names.insert({'name':'Nieve Párraga'});
